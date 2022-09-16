@@ -6,7 +6,6 @@
 
 .Navbar{
     position:sticky;
-    width:100vw;
     background-color: white;
     z-index:13;
     top:0;
